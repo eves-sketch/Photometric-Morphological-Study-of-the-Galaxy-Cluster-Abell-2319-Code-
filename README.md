@@ -1,0 +1,2 @@
+# Photometric-Morphological-Study-of-the-Galaxy-Cluster-Abell-2319-Code-
+A photometric and morphological analysis of the galaxy cluster Abell 2319, focusing on the structural classification of member galaxies. Using imaging data, the code measures photometric properties such as luminosity, surface brightness, and galaxy shape to investigate environmental effects on galaxy morphology within the cluster.
